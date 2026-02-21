@@ -1,0 +1,22 @@
+{
+  "name": "playwright-automation-lab",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript automation lab for UI and API testing.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravantivedullapalli-ctrl/playwright-automation-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravantivedullapalli-ctrl/playwright-automation-lab/issues"
+  },
+  "homepage": "https://github.com/sravantivedullapalli-ctrl/playwright-automation-lab#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
